@@ -1,1 +1,1 @@
-# Python_Mini_Project
+# Tic Tac Toe game using Python
